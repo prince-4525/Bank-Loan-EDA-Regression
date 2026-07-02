@@ -1,7 +1,7 @@
 # 📊 Bank Loan Risk & Interest Prediction using Machine Learning
 
 ## 🔍 Project Overview
-This project focuses on analyzing borrower data to solve two key financial problems:
+This project demonstrates Exploratory Data Analysis (EDA) and Machine Learning techniques on a bank loan dataset. It includes data preprocessing, visualization, regression modeling, and loan approval prediction.
 
 - **Interest Rate Prediction (Regression)**
 - **Loan Approval Prediction (Classification)**
@@ -21,13 +21,6 @@ The project simulates a real-world lending scenario by combining **statistical m
 
 ---
 
-## ⚠️ Real-World Challenges Addressed
-- Handled missing values and inconsistent data formats  
-- Detected and treated outliers using IQR method  
-- Avoided **data leakage** by removing features used in target creation  
-- Performed feature engineering (log transformation, encoding)
-
----
 
 ## ⚙️ Key Tasks Performed
 
@@ -85,18 +78,14 @@ The project simulates a real-world lending scenario by combining **statistical m
 
 ## 📦 Project Structure
 
-bank-loan-ml-project/
+Bank-Loan-EDA-Regression/
 │
-├── data/
-│ └── loan_processed_with_classification.csv
-│
-├── notebooks/
-│ ├── eda_regression.ipynb
-│ └── classification_pipeline.ipynb
-│
-├── README.md
+├── Exploratory Data Analysis & Regression Modeling.ipynb
+├── 2_final_loan_ml_pipeline.ipynb
+├── LoansData (1).csv
+├── loan_processed_with_classification.csv
 ├── requirements.txt
-
+└── README.md
 
 ---
 
@@ -104,7 +93,7 @@ bank-loan-ml-project/
 
 ### 1️⃣ Clone Repository
 ```bash```
-git clone https://github.com/your-username/bank-loan-ml-project.git
+git clone https://github.com/prince-4525/Bank-Loan-EDA-Regression.git
 cd bank-loan-ml-project
 2️⃣ Install Dependencies
 pip install -r requirements.txt
