@@ -123,6 +123,8 @@ Financial analytics and decision support
 Portfolio / internship project
 👤 Author
 
-Anmol Agrawal
-B.S. Data Science – IIT Madras
-B.Tech CSE – GEC Bharatpur
+Prince Chaurasia
+B.Tech CSE Graduate
+Email: inprincechaurasia@gmail.com
+GitHub: https://github.com/prince-4525
+LinkedIn: https://www.linkedin.com/in/prince-chaurasia-bb0a852a1/
